@@ -63,7 +63,25 @@ Describe how using at least one Debug.Log() node helped you test your Graphs at 
 
 4\. Game state is necessary for my vertical slice because level progression is an important aspect in progress indication for the player and it enforces a reward system. 
 
-## 
+
+
+
+## W4
+
+### Activity 1:
+
+1. The playable in my build is the set player movement access WASD and ability usage when users press "r."
+My playtest goals are for players to understand the movement easily and be capable of knowing how to use the abilities with said movement.
+
+2. Weida Chen, Leandro Lopez Romirez, Gael Porras, Lillian Su
+
+3. Playtest notes: Assests in my game needed to be polished more - Currently have fixed animation and need to incorporate animation states. R ability is hard to see and needs to be faster. WASD movement is "sliding" but feels ok overall. 
+
+Notes on others: Leandro need to focus more on enemy creation. His character assets and animation states where very well designed. Weida needs to focus on the opposite, his animations desins were fixed like mine and his content was very well developeed. Lillian had similar aspects to Leandro and Needed more content in her game before milestone. Lastly Gael had a promising creation but needed to put in more background assets to finish off his early game. 
+
+### Activity 2: 
+
+
 
 
 
